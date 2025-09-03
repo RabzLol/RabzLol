@@ -17,3 +17,4 @@
 📫 Connect with me
 LinkedIn: []
 
+![Reabetswe's github stats](https://github-readme-stats.vercel.app/api?username=RabzLol&show_icons=true&theme=tokyonight)
