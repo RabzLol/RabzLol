@@ -1,5 +1,3 @@
-![Reabetswe's github stats](https://github-readme-stats.vercel.app/api?username=RabzLol&show_icons=true&theme=tokyonight)
-
 # 💫 About Me:
 🔭I’m currently pursuing a Bachelor of Information Technologies at Belgium Campus IT-Varsity. 🌱 I’m building my skills in web development, programming, and databases. 🔍 I’m interested in exploring software development, IT solutions, and problem-solving. ⚡ Fun fact: I enjoy learning new technologies and applying them to real-world challenges.<br><br>🛠️ Skills & Tools<br><br>-Programming: HTML, C#, basics of Java<br><br>-Databases: Microsoft Access, SQL<br><br>-Other: IT fundamentals, problem-solving mindset
 
