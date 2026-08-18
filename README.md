@@ -44,10 +44,12 @@ Cisco Packet Tracer projects covering IP addressing, DHCP configuration, and net
 
 
 
-🔐 Currently exploring cybersecurity & DFIR
-🛠️ Building practical software and security projects
-🎓 Bachelor of Information Technology — Belgium Campus
-🔎 Seeking IT/Cybersecurity internship opportunities
+## Currently
+
+- 🔐 Exploring cybersecurity & DFIR
+- 🛠️ Building practical software and security projects
+- 🎓 Bachelor of Information Technology — Belgium Campus
+- 🔎 Seeking IT/Cybersecurity internship opportunities
 
 
 
