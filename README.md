@@ -1,4 +1,12 @@
 # Hi, I'm Reabetswe Mokobi 👋
+Hi, I'm Reabetswe Mokobi 👋
+BIT Student | Software Development | Cybersecurity & Digital Forensics
+
+About Me
+Technical Skills
+Projects
+Currently
+Connect With Me
 
 
 BIT Student | Software Development | Cybersecurity & Digital Forensics
