@@ -56,7 +56,6 @@ Cisco Packet Tracer projects covering IP addressing, DHCP configuration, and net
 ## Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/reabetswe-mokobi-465a70404/
-- 💻 GitHub: https://github.com/RabzLol
 - 📧 Email: mokobirabi@gmail.com
 
 
